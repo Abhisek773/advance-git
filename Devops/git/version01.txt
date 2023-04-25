@@ -5,3 +5,5 @@ This is the bug fix in dev branch
 This is edited by dev branch
 
 This is the bug fix in development branch
+
+After bug fixing, this is the new feature with minor alteration
